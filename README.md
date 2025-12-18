@@ -12,7 +12,7 @@ A simple graphical calculator application built with Python and Tkinter.
 
 ## Requirements
 
-- Python 3.x
+- Python 3.13.9
 - Tkinter (usually included with Python installations)
 
 ## How to Run
